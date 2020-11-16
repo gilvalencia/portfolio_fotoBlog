@@ -38,7 +38,7 @@ permalink: "Portfolio Fotográfico"
 <center>
 <img src="src/retratos_01.jpg">
 </center>
-
+<br>
 Aunque seas principiante o nunca la hayas practicado seguro que te suena el término street photography o fotografía callejera. Se trata de una de las temáticas más conocidas de la fotografía y una de las más practicadas por fotógrafos/as de todo el mundo.
 
 Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva que recopile todos los consejos, trucos y técnicas que necesitas saber para poder dominar de una vez por todas este tipo de fotografía tan espectacular. ¡Vayamos punto por punto!
@@ -46,7 +46,7 @@ Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva
 <h2>Primeros Planos</h2>
 
 <!--DIAPOSITIVA 1----------------------------------->
-<h1>Cosas a tener en cuenta:</h1>
+<h1><u>Cosas a tener en cuenta</u>:</h1>
 
 <table>
     <tr>
@@ -86,8 +86,7 @@ Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva
 <br>
 
 <!--DIAPOSITIVA 2----------------------------------->
-<h1>Equipo básico para fotografía callejera:</h1>
-<br>
+<h1><u>Equipo básico para fotografía callejera</u>:</h1>
 
 Lo primero que necesitarás para poder practicar fotografía callejera es un equipo fotográfico. Aunque hemos de reconocer que esta es una disciplina en la que un contar con un amplio equipo no será lo más importante porque no necesitarás demasiados elementos y esa es precisamente una de sus mayores ventajas.
 
@@ -98,14 +97,16 @@ Incluso con un móvil que cuente con una buena cámara ya puedes salir a hacer f
         <td style="background-color:#E5E3E2">
             <ul>
                 <li><h3><b><u>Cámara Fotográfica</u></b>: Cuerpo.</h3></li>
-                <li><h3>Objetivos: </h3></li>
+                <li><h3><b><u>Objetivos</u></b>: un <b>50mm</b> es lo habitual para este tipo de fotografía. </h3></li>
+                <li><h3><b><u>Trípode</u></b>: al tratarse de una fotografía tan dinámica, donde tienes que estar atento en todo momento, no es recomendable. </h3></li>
+                <li><h3><b><u>Filtros</u></b>: habitual utilizar durante el día un filtro que elimina los rayos del sol (K&F Concept 40.5mm Filtro ND Variable ND2~ND400). </h3></li>
             </ul>
         </td>
     </tr>
 </table>
 
-<button type="button" id="btn1dp2" onclick="diapo('2')" style="display:block">Ver normativa</button>
-<button type="button" id="btn2dp2" onclick="diapob('2')" style="display:none">Ocultar normativa</button>
+<button type="button" id="btn1dp2" onclick="diapo('2')" style="display:block">Ver Equipo Fotográfico</button>
+<button type="button" id="btn2dp2" onclick="diapob('2')" style="display:none">Ocultar Equipo</button>
 
 <div id="diapo2" style="display:none">
     <table>
