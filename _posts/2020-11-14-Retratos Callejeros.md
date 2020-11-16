@@ -72,12 +72,12 @@ Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva
         <tr>
             <td valign="top">
                 <center>
-                    <img src="retratos_ejemplos_01.jpg">
+                    <img src="retratos_ejemplo_01.jpg">
                 </center> 
             </td>
             <td valign="top">
                  <center>
-                    <img src="retratos_ejemplos_02.jpg">
+                    <img src="retratos_ejemplo_02.jpg">
                 </center> 
             </td>
         </tr>
