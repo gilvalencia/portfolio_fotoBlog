@@ -36,7 +36,7 @@ permalink: "Portfolio Fotográfico"
 </style>
 
 <center>
-<img src="retratos_01.jpg">
+<img src="src/retratos_01.jpg">
 </center>
 
 Aunque seas principiante o nunca la hayas practicado seguro que te suena el término street photography o fotografía callejera. Se trata de una de las temáticas más conocidas de la fotografía y una de las más practicadas por fotógrafos/as de todo el mundo.
@@ -72,12 +72,12 @@ Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva
         <tr>
             <td valign="top">
                 <center>
-                    <img src="retratos_ejemplo_01.jpg">
+                    <img src="src/retratos_ejemplo_01.jpg">
                 </center> 
             </td>
             <td valign="top">
                  <center>
-                    <img src="retratos_ejemplo_02.jpg">
+                    <img src="src/retratos_ejemplo_02.jpg">
                 </center> 
             </td>
         </tr>
@@ -86,15 +86,19 @@ Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva
 <br>
 
 <!--DIAPOSITIVA 2----------------------------------->
-<h2>Como consecuencia de los cambios en tipos se da una nueva redacción a los <u><b>recargos minoristas</b></u> </h2>
+<h1>Equipo básico para fotografía callejera:</h1>
 <br>
+
+Lo primero que necesitarás para poder practicar fotografía callejera es un equipo fotográfico. Aunque hemos de reconocer que esta es una disciplina en la que un contar con un amplio equipo no será lo más importante porque no necesitarás demasiados elementos y esa es precisamente una de sus mayores ventajas.
+
+Incluso con un móvil que cuente con una buena cámara ya puedes salir a hacer fotos. Obviamente siempre tendrás más versatilidad con una cámara digital, pero no serán necesarios demasiados accesorios, al contrario de otras disciplinas como la fotografía macro o de paisajes. Veamos cuál sería el equipo básico para poder hacer fotografía callejera.
 
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Se incrementa el <b>recargo minorista sobre el tipo general del 0,65% al 0,7%</b></h3></li>
-                <li><h3>Se incrementa el <b>recargo minorista sobre el tipo incrementado del 1,35% al 1,5%</b></h3></li>
+                <li><h3><b><u>Cámara Fotográfica</u></b>: Cuerpo.</h3></li>
+                <li><h3>Objetivos: </h3></li>
             </ul>
         </td>
     </tr>
