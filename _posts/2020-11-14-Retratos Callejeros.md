@@ -52,7 +52,7 @@ Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Es un tipo de fotografía que trata de documentar momentos clave de la condición humana en entornos públicos.</h3></li>
+                <li><h3>Es un tipo de fotografía que trata de documentar <b>momentos clave de la condición humana</b> en entornos públicos.</h3></li>
                 <li><h3><b>La paciencia, el encuadre y la oportunidad </b> son los elementos clave de este tipo de fotografía</h3></li>
                 <li><h3>Tres premisas: tómate todo el tiempo <b>que sea necesario</b>, <b>observa</b> muy detenidamente tu entorno y ten <b>preparada tu cámara en todo                             momento</b>.</h3></li>
             </ul>
