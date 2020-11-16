@@ -1,11 +1,11 @@
 ---
 layout: "post"
-title:  "Novedades en IRPF 2020"
-date:   2019-11-16 18:41:12 +0000
+title:  "Rincones Remotos"
+date:   2020-11-16 12:12:44 +0000
 avatar: assets/img/simb-color.png
 categories: jekyll IRPF
-author: "Carlos Hernández"
-permalink: "novedades-irpf-2020"
+author: "José Antonio Gil Valencia"
+permalink: "Portfolio Fotográfico_Rincones"
 ---
 <style>
     .tooltip {
