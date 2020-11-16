@@ -111,31 +111,25 @@ Incluso con un móvil que cuente con una buena cámara ya puedes salir a hacer f
 <div id="diapo2" style="display:none">
     <table>
     <tr>
-        <th>Redacción Anterior</th>
-        <th>Nueva Redacción</th>
+        <th>Cuerpo de la Cámara Canon 6D Mark1</th>
+        <th>Objetivo Canon 50mm 1.2 Serie L</th>
+        <th>Filtro K&F Concept ND</th>
     </tr>
     <tr>
-        <td valign="top">5. <u>Los tipos del recargo</u> aplicables a las importaciones de bienes sujetas y no exentas al Impuesto General Indirecto Canario efectuadas por comerciantes minoristas para su actividad comercial, serán los siguientes:<br>
-            <ol type="a">
-                <li>El tipo cero, para las importaciones sujetas al tipo cero</li>
-                <li>El tipo del 0,3 por ciento, para las importaciones sujetas al tipo reducido del 3 por ciento.</li>
-                <li style="color:red">El tipo del 0,65 por ciento, para las importaciones sujetas al tipo general del 6,5 por ciento.</li>
-                <li> El tipo del 0,95 por ciento, para las importaciones sujetas al tipo incrementado del 9,5 por ciento.</li>
-                <li style="color:red">El tipo del 1,35 por ciento, para las importaciones sujetas al tipo incrementado del 13,5 por ciento.</li>
-                <li>El tipo del 2 por ciento, para las importaciones sujetas al tipo especial del 20 por ciento.</li>
-            </ol>
+        <td valign="top">
+            <center>
+                   <img src="src/cuerpoCamara.jpg">
+                </center> 
         </td>
-        <td valign="top">5. <u>Los tipos del recargo</u> aplicables a las importaciones de bienes sujetas y no exentas al Impuesto General Indirecto Canario efectuadas
-                    por comerciantes minoristas para su actividad comercial serán los siguientes:<br>
-            <ol type="a">
-                <li>El tipo cero, para las importaciones sujetas al tipo cero.</li>
-                <li>El tipo del 0,3 por ciento, para las importaciones sujetas al tipo reducido del 3 por ciento.</li>
-                <li style="color:blue">El tipo del 0,7 por ciento, para las importaciones sujetas al tipo general del 7 por ciento.</li>
-                <li>El tipo del 0,95 por ciento, para las importaciones sujetas al tipo incrementado del 9,5 por ciento.</li>
-                <li style="color:blue">El tipo del 1,5 por ciento, para las importaciones sujetas al tipo incrementado del 15 por ciento.</li>
-                <li>El tipo del 2 por ciento, para las importaciones sujetas al tipo especial del 20 por ciento.”</li>
-                
-            </ol>
+        <td valign="top">
+             <center>
+                    <img src="src/objetivoCamara.jpg">
+                </center> 
+        </td>
+        <td valign="top">
+            <center>
+                    <img src="src/filtroCamara.jpg">
+                </center> 
         </td>
     </tr>
     </table>
