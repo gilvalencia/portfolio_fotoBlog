@@ -41,18 +41,18 @@ Aunque seas principiante o nunca la hayas practicado seguro que te suena el tér
 
 Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva que recopile todos los consejos, trucos y técnicas que necesitas saber para poder dominar de una vez por todas este tipo de fotografía tan espectacular. ¡Vayamos punto por punto!
     
-<h1>Primer Planos</h1>
+<h2>Primeros Planos</h2>
 
 <!--DIAPOSITIVA 1----------------------------------->
-<h2>Artículo 51: Tipos de Gravamen </h2>
+<h1>Cosas a tener en cuenta:</h1>
 
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Desaparece la redacción sobre el <b>tipo impositivo del 2,5%</b>relativo a determinadas transmisiones de bienes inmuebles.</h3></li>
-                <li><h3>Se incrementa el <b>tipo general del 6,5% al 7%</b></h3></li>
-                <li><h3>Se incrementa el <b>tipo incrementado del 13,5% al 15%</b></h3></li>
+                <li><h3>Es un tipo de fotografía que trata de documentar momentos clave de la condición humana en entornos públicos.</h3></li>
+                <li><h3><b>La paciencia, el encuadre y la oportunidad </b> son los elementos clave de este tipo de fotografía</h3></li>
+                <li><h3>Tres premisas: tómate todo el tiempo <b>que sea necesario</b>, <b>observa</b> muy detenidamente tu entorno y ten <b>preparada tu cámara en todo             momento</b>.</h3></li>
             </ul>
         </td>
     </tr>
