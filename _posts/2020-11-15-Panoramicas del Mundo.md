@@ -1,11 +1,11 @@
 ---
 layout: "post"
-title:  "Novedades en Sucesiones y Donaciones 2020"
-date:   2019-11-16 18:41:12 +0000
+title:  "Panorámicas del mundo"
+date:   2020-11-15 12:44:54 +0000
 avatar: assets/img/simb-color.png
 categories: jekyll IGIC
-author: "Carlos Hernández"
-permalink: "novedades-sucdon-2020"
+author: "José Antonio Gil Valencia"
+permalink: "Portoflio Fotográfico_Panorámicas"
 ---
 <style>
     .tooltip {
