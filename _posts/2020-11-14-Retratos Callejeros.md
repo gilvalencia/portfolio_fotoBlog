@@ -52,55 +52,18 @@ Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva
             <ul>
                 <li><h3>Es un tipo de fotografía que trata de documentar momentos clave de la condición humana en entornos públicos.</h3></li>
                 <li><h3><b>La paciencia, el encuadre y la oportunidad </b> son los elementos clave de este tipo de fotografía</h3></li>
-                <li><h3>Tres premisas: tómate todo el tiempo <b>que sea necesario</b>, <b>observa</b> muy detenidamente tu entorno y ten <b>preparada tu cámara en todo             momento</b>.</h3></li>
+                <li><h3>Tres premisas: tómate todo el tiempo <b>que sea necesario</b>, <b>observa</b> muy detenidamente tu entorno y ten <b>preparada tu cámara en todo                             momento</b>.</h3></li>
             </ul>
         </td>
     </tr>
 </table>
 
-<button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ver normativa</button>
-<button type="button" id="btn2dp1" onclick="diapob('1')" style="display:none">Ocultar normativa</button>
+<button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ejemplos de Primeros Planos</button>
+<button type="button" id="btn2dp1" onclick="diapob('1')" style="display:none">Ocultar Ejemplos</button>
 
 <div id="diapo1" style="display:none">
         <table>
-        <tr>
-            <th>Redacción Anterior</th>
-            <th>Nueva Redacción</th>
-        </tr>
-        <tr>
-            <td valign="top">1. En el Impuesto General Indirecto Canario serán aplicables los siguientes tipos de gravamen:
-                <ol type="a">
-                    <li>El tipo cero, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 52 de esta ley.</li>
-                    <li style="color:red">El tipo reducido del 2,75 por ciento, aplicable a las entregas de bienes señaladas en el 
-                        <div class="tooltip">artículo 53 
-                        <span class="tooltiptext"><b>Artículo 53.- Tipo de gravamen reducido del 2,75 por ciento.</b><br><br>
-                        Fué suprimido por la Ley 11/2015, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2016. Este precepto era aplicable hasta el día 31 de diciembre de 2012<br><br>
-                        Se había suprimido con anterioridad el artículo pero no la letra relativa a ese tipo impositivo.</span> 
-                        </div>
-                        de esta ley.
-                    </li>
-                    <li>El tipo reducido del 3 por ciento, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 54 de esta ley.</li>
-                    <li style="color:red">El tipo general del 6,5 por ciento, aplicable a las entregas de bienes y prestaciones de servicios que no se encuentren sometidas a ninguno de los otros tipos        impositivos previstos en el presente artículo.</li>
-                    <li>El tipo incrementado del 9,5 por ciento, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 55 de esta ley.</li>
-                    <li style="color:red">El tipo incrementado del 13,5 por ciento, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 56 de esta ley.</li>
-                    <li>El tipo especial del 20 por ciento, aplicable a las entregas de bienes y prestaciones de servicios descritas en el artículo 57 de esta ley.</li>
-                </ol>
-            </td>
-            <td valign="top">
-                1. Los tipos de gravamen en el Impuesto General Indirecto Canario serán los siguientes:
-                <ol type="a">
-                    <li>El tipo cero, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 52 de esta ley.</li>
-                    <li>tipo reducido del 3 por ciento, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 54 de esta ley.</li>
-                    <li style="color:blue"><u>El tipo general del 7 por ciento,</u> aplicable a las entregas de bienes y prestaciones de servicios que no se encuentren sometidas a
-                        ninguno de los otros tipos impositivos previstos en el presente artículo.</li>
-                    <li>El tipo incrementado del 9,5 por ciento, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 55 de
-                        esta ley.</li>
-                    <li style="color:blue"><u>El tipo incrementado del 15 por ciento,</u> aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 56 de
-                        esta ley.</li>
-                    <li>El tipo especial del 20 por ciento, aplicable a las entregas de bienes señaladas en el artículo 57 de esta ley</li>
-                </ol>
-            </td>
-        </tr>
+            
         </table>
 </div>
 <br>
