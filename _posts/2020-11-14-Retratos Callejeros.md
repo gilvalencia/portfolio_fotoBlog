@@ -342,7 +342,7 @@ Cierto es que no es fácil el retrato callejero. Sobre todo cuando realizas las 
 Pero la sensación de poder sacar una instantánea, pausar el tiempo de una persona en un determinado lugar, te hace poderoso. Y, si se siguen determinadas técnicas, se puede ser incluso creativo y artístico. La fotografía al poder. 
 
 <center>
-    <img src="src/fotosPequenas_semiautomatico_01.jpg">
+    <img src="src/fotosEnteraApartados_finalRetratos.jpg">
 </center>
 
 
