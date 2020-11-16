@@ -1,11 +1,11 @@
 ---
 layout: "post"
-title:  "Novedades en IGIC 2020"
-date:   2019-11-16 18:41:12 +0000
+title:  "Retratos Callejeros"
+date:   2020-11-14 10:30:08 +0000
 avatar: assets/img/simb-color.png
 categories: jekyll IGIC
-author: "Carlos Hernández"
-permalink: "novedades-igic-2020"
+author: "José Antonio Gil Valencia"
+permalink: "Portfolio Fotográfico"
 ---
 <style>
     .tooltip {
