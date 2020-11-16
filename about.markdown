@@ -4,5 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Este blog está preparado para la ponencia del próximo 28 de noviembre dentro del marco de las Jornadas de Tenerife de AEDAF
-+ info en: https://www.aedaf.es/es/actividades/detalle/jornadas-tenerife-2019-28-y-29-11-4448
+Blog sobre la experiencia de usuario fotográfico en diferentes entornos.
+-Web Oficial Trabajos Profesionales: https://www.gilvalencia.net
+-Web Oficial 500px Trabajos Fotográficos: https://500px.com/p/gilvalencia?view=photos
+-Instragam User jagilvalencia: https://www.instagram.com/jagilvalencia/
