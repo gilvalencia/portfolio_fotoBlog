@@ -139,12 +139,149 @@ Incluso con un móvil que cuente con una buena cámara ya puedes salir a hacer f
 <br>
 
 <!--DIAPOSITIVA 3----------------------------------->
+
 <h1><u>Parámetros Recomendados para Fotografía Callejera</u>:</h1>
 
 A la hora de convertirnos en un verdadero <i>street photographer</i> sabemos que nos interesa <b>pasar inadvertidos entre la multitud y ser rápidos</b> para poder captar momentos fugaces que surgen inesperadamente.
 
 Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros parámetros</b>. Veamos cuáles nos pueden ayudar a conseguir nuestros objetivos.
 
+<!--MODOS DE DISPARO SEMIAUTOMATICO----------------->
+<h2><u>1.-Modos de Disparo Semiautomático</u>:</h2>
+
+<table>
+    <tr>
+        <td style="background-color:#E5E3E2">
+            <ul>
+                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será <b>más sencillo usar automatismos</b>.</h3></li>
+                <li><h3>El <b>modo prioridad a la apertura</b> o el <b>modo prioridad a la velocidad de obturación</b> se convertirán en nuestro mejores aliados.</h3></li>
+                <li><h3>Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f altos) como <b>por ejemplo f/8 o f/11</b>.</h3></li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<center>
+  <img src="src/fotosEnteraApartados_semiautomatico.jpg">
+</center> 
+
+<button type="button" id="btn1dp3" onclick="diapo('3')" style="display:block">Ejemplos de Disparo Semiautomático</button>
+<button type="button" id="btn2dp3" onclick="diapob('3')" style="display:none">Ocultar Ejemplos</button>
+
+<div id="diapo3" style="display:none">
+        <table>
+        <tr>
+            <th>Apertura Diafragma f/8</th>
+            <th>Apertura Diafragma f/11</th>
+        </tr>
+        <tr>
+            <td valign="top">
+                <center>
+                    <img src="src/fotosPequenas_semiautomatico_01.jpg">
+                </center> 
+            </td>
+            <td valign="top">
+                 <center>
+                    <img src="src/fotosPequenas_semiautomatico_02.jpg">
+                </center> 
+            </td>
+        </tr>
+        </table>
+</div>
+
+<br>
+
+<!--OBTURACION----------------->
+<h2><u>1.-Modos de Disparo Semiautomático</u>:</h2>
+
+<table>
+    <tr>
+        <td style="background-color:#E5E3E2">
+            <ul>
+                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será <b>más sencillo usar automatismos</b>.</h3></li>
+                <li><h3>El <b>modo prioridad a la apertura</b> o el <b>modo prioridad a la velocidad de obturación</b> se convertirán en nuestro mejores aliados.</h3></li>
+                <li><h3>Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f altos) como <b>por ejemplo f/8 o f/11</b>.</h3></li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<center>
+  <img src="src/fotosEnteraApartados_semiautomatico.jpg">
+</center> 
+
+<button type="button" id="btn1dp3" onclick="diapo('3')" style="display:block">Ejemplos de Disparo Semiautomático</button>
+<button type="button" id="btn2dp3" onclick="diapob('3')" style="display:none">Ocultar Ejemplos</button>
+
+<div id="diapo3" style="display:none">
+        <table>
+        <tr>
+            <th>Apertura Diafragma f/8</th>
+            <th>Apertura Diafragma f/11</th>
+        </tr>
+        <tr>
+            <td valign="top">
+                <center>
+                    <img src="src/fotosPequenas_semiautomatico_01.jpg">
+                </center> 
+            </td>
+            <td valign="top">
+                 <center>
+                    <img src="src/fotosPequenas_semiautomatico_02.jpg">
+                </center> 
+            </td>
+        </tr>
+        </table>
+</div>
+
+<br>
+
+<!--ISO----------------->
+<h2><u>1.-Modos de Disparo Semiautomático</u>:</h2>
+
+<table>
+    <tr>
+        <td style="background-color:#E5E3E2">
+            <ul>
+                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será <b>más sencillo usar automatismos</b>.</h3></li>
+                <li><h3>El <b>modo prioridad a la apertura</b> o el <b>modo prioridad a la velocidad de obturación</b> se convertirán en nuestro mejores aliados.</h3></li>
+                <li><h3>Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f altos) como <b>por ejemplo f/8 o f/11</b>.</h3></li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<center>
+  <img src="src/fotosEnteraApartados_semiautomatico.jpg">
+</center> 
+
+<button type="button" id="btn1dp3" onclick="diapo('3')" style="display:block">Ejemplos de Disparo Semiautomático</button>
+<button type="button" id="btn2dp3" onclick="diapob('3')" style="display:none">Ocultar Ejemplos</button>
+
+<div id="diapo3" style="display:none">
+        <table>
+        <tr>
+            <th>Apertura Diafragma f/8</th>
+            <th>Apertura Diafragma f/11</th>
+        </tr>
+        <tr>
+            <td valign="top">
+                <center>
+                    <img src="src/fotosPequenas_semiautomatico_01.jpg">
+                </center> 
+            </td>
+            <td valign="top">
+                 <center>
+                    <img src="src/fotosPequenas_semiautomatico_02.jpg">
+                </center> 
+            </td>
+        </tr>
+        </table>
+</div>
+
+<br>
+
+<!--OTRAS TECNICAS----------------->
 <h2><u>1.-Modos de Disparo Semiautomático</u>:</h2>
 
 <table>
@@ -190,6 +327,16 @@ Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros par
 <br>
 
 <!--DIAPOSITIVA 4----------------------------------->
+
+<h1><u>Experiencia</u>:</h1>
+
+Cierto es que no es fácil el retrato callejero. Sobre todo cuando realizas las fotos demasiado cerca de las personas. Tienes que tener cuidado. Y más hoy en día. Mucha gente es reacia a que se le acerque una cámara.
+
+Pero la sensación de poder sacar una instantánea, pausar el tiempo de una persona en un determinado lugar, te hace poderoso. Y, si se siguen determinadas técnicas, se puede ser incluso creativo y artístico. La fotografía al poder. 
+
+<center>
+    <img src="src/fotosPequenas_semiautomatico_01.jpg">
+</center>
 
 
 <!--SCRIPTS----------------------------------->
