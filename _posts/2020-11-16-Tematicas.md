@@ -36,7 +36,7 @@ permalink: "Portfolio Fotográfico_Tematicas"
 </style>
 
 <center>
-<img src="src/retratos_01.jpg">
+<img src="src/fotosEncabezado_tecnicas.jpg">
 </center>
 <br>
 Aunque seas principiante o nunca la hayas practicado seguro que te suena el término street photography o fotografía callejera. Se trata de una de las temáticas más conocidas de la fotografía y una de las más practicadas por fotógrafos/as de todo el mundo.
