@@ -99,7 +99,7 @@ Incluso con un móvil que cuente con una buena cámara ya puedes salir a hacer f
                 <li><h3><b><u>Cámara Fotográfica</u></b>: Cuerpo.</h3></li>
                 <li><h3><b><u>Objetivos</u></b>: un <b>50mm</b> es lo habitual para este tipo de fotografía. </h3></li>
                 <li><h3><b><u>Trípode</u></b>: al tratarse de una fotografía tan dinámica, donde tienes que estar atento en todo momento, no es recomendable. </h3></li>
-                <li><h3><b><u>Filtros</u></b>: habitual utilizar durante el día un filtro que elimina los rayos del sol (K&F Concept 40.5mm Filtro ND Variable ND2~ND400). </h3></li>
+                <li><h3><b><u>Filtros</u></b>: lo habitual es utilizar durante el día un filtro que elimina los rayos del sol (K&F Concept 40.5mm Filtro ND Variable ND2~ND400). </h3></li>
             </ul>
         </td>
     </tr>
@@ -151,10 +151,9 @@ Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros par
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3><b><u>Cámara Fotográfica</u></b>: Cuerpo.</h3></li>
-                <li><h3><b><u>Objetivos</u></b>: un <b>50mm</b> es lo habitual para este tipo de fotografía. </h3></li>
-                <li><h3><b><u>Trípode</u></b>: al tratarse de una fotografía tan dinámica, donde tienes que estar atento en todo momento, no es recomendable. </h3></li>
-                <li><h3><b><u>Filtros</u></b>: habitual utilizar durante el día un filtro que elimina los rayos del sol (K&F Concept 40.5mm Filtro ND Variable ND2~ND400). </h3></li>
+                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será más sencillo usar automatismos.</h3></li>
+                <li><h3>El modo prioridad a la apertura o el modo prioridad a la velocidad de obturación se convertirán en nuestro mejores aliados.</h3></li>
+                <li><h3>Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f altos) como por ejemplo f/8 o f/11.</h3></li>
             </ul>
         </td>
     </tr>
