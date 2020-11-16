@@ -12,4 +12,4 @@ Blog sobre la experiencia de usuario fotográfico en diferentes entornos.
 
 -[Instragam User jagilvalencia](https://www.instagram.com/jagilvalencia)
 
-![](/src/self_01.jpg "self_01")
+![](/src/self_01.jpg)
