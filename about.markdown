@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Blog sobre la experiencia de usuario fotográfico en diferentes entornos.
-
+<center>
 -[Web Oficial Trabajos Profesionales](https://www.gilvalencia.net)
 
 -[Web Oficial 500px Trabajos Fotográficos](https://500px.com/p/gilvalencia?view=photos)
@@ -13,3 +13,4 @@ Blog sobre la experiencia de usuario fotográfico en diferentes entornos.
 -[Instragam User jagilvalencia](https://www.instagram.com/jagilvalencia)
 
 ![](/src/self_01.jpg)
+</center>
