@@ -139,18 +139,20 @@ Incluso con un móvil que cuente con una buena cámara ya puedes salir a hacer f
 <br>
 
 <!--DIAPOSITIVA 3----------------------------------->
-<h2>Se modifica la letra a) del 
-    <div class="tooltip">artículo 52 
-        <span class="tooltiptext"><b>Artículo 52.- Tipo de gravamen cero</b></span> 
-    </div></h2>
-<br>
+<h1><u>Parámetros Recomendados para Fotografía Callejera</u>:</h1>
+
+A la hora de convertirnos en un verdadero <i>street photographer</i> sabemos que nos interesa <b>pasar inadvertidos entre la multitud y ser rápidos</b> para poder captar momentos fugaces que surgen inesperadamente.
+
+Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros parámetros</b>. Veamos cuáles nos pueden ayudar a conseguir nuestros objetivos.
+
+<h2><u>1.-Modos de Disparo Semiautomático</u>:</h2>
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Se limita la sujeción al 0% en la entrega de bienes, prestaciones de servicios e importaciones, <b>que destine directamente el adquirente
-                o importador</b> a la captacion de aguas... y realización de infraestructuras de almacenamiento de agua y servicio publico de transporte de la misma</h3></li>
-                
+                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será más sencillo usar automatismos. El modo prioridad a la apertura o el modo prioridad a                     la velocidad de obturación se convertirán en nuestro mejores aliados. Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f                           altos) como por ejemplo f/8 o f/11.
+
+                    Si nos decidimos por usar el modo con prioridad a la apertura de diafragma, le diremos a nuestra cámara que queremos usar un número f determinado y ella                        calculará la velocidad y la ISO más adecuadas para la exposición correcta de esa escena. Así nos aseguraremos de cubrir la mayor profundidad de campo posible.                      </h3></li>
             </ul>
         </td>
     </tr>
