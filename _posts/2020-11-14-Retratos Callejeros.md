@@ -146,12 +146,15 @@ A la hora de convertirnos en un verdadero <i>street photographer</i> sabemos que
 Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros parámetros</b>. Veamos cuáles nos pueden ayudar a conseguir nuestros objetivos.
 
 <h2><u>1.-Modos de Disparo Semiautomático</u>:</h2>
+
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será más sencillo usar automatismos.</h3></li>
-                <li><h3>El modo prioridad a la apertura o el modo prioridad a la velocidad de obturación se convertirán en nuestro mejores aliados.</h3><li>
+                <li><h3><b><u>Cámara Fotográfica</u></b>: Cuerpo.</h3></li>
+                <li><h3><b><u>Objetivos</u></b>: un <b>50mm</b> es lo habitual para este tipo de fotografía. </h3></li>
+                <li><h3><b><u>Trípode</u></b>: al tratarse de una fotografía tan dinámica, donde tienes que estar atento en todo momento, no es recomendable. </h3></li>
+                <li><h3><b><u>Filtros</u></b>: habitual utilizar durante el día un filtro que elimina los rayos del sol (K&F Concept 40.5mm Filtro ND Variable ND2~ND400). </h3></li>
             </ul>
         </td>
     </tr>
