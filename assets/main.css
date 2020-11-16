@@ -13,6 +13,11 @@ main { display: block; /* Default value of `display` of `main` element is 'inlin
 /** Images */
 img { max-width: 100%; vertical-align: middle; }
 
+#self_01 {
+   width:150px;
+   height:100px;
+}
+
 /** Figures */
 figure > img { display: block; }
 
