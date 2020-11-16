@@ -35,8 +35,13 @@ permalink: "Portfolio Fotográfico"
 
 </style>
 
+<p id="parrafoInicio>
+Aunque seas principiante o nunca la hayas practicado seguro que te suena el término street photography o fotografía callejera. Se trata de una de las temáticas más conocidas de la fotografía y una de las más practicadas por fotógrafos/as de todo el mundo.
 
-<h1>Modificaciones en la Ley 4/2012</h1>
+Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva que recopile todos los consejos, trucos y técnicas que necesitas saber para poder dominar de una vez por todas este tipo de fotografía tan espectacular. ¡Vayamos punto por punto!
+</p>
+    
+<h1>Primer Planos</h1>
 
 <!--DIAPOSITIVA 1----------------------------------->
 <h2>Artículo 51: Tipos de Gravamen </h2>
