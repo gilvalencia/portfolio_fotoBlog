@@ -152,8 +152,6 @@ Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros par
             <ul>
                 <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será más sencillo usar automatismos.</h3></li>
                 <li><h3>El modo prioridad a la apertura o el modo prioridad a la velocidad de obturación se convertirán en nuestro mejores aliados.</h3><li>
-                <li><h3>Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f altos) como por ejemplo f/8 o f/11.</h3></li>
-                <li><h3>Si nos decidimos por usar el modo con prioridad a la apertura de diafragma, le diremos a nuestra cámara que queremos usar un número f determinado y ella calculará la velocidad y la ISO más adecuadas para la exposición correcta de esa escena. Así nos aseguraremos de cubrir la mayor profundidad de campo posible.</h3></li>
             </ul>
         </td>
     </tr>
@@ -193,8 +191,7 @@ Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros par
         <td style="background-color:#E5E3E2">
             <ul>
                 <li><h3>Se elimina la sujeción a tipo 0% de <b>elecuciones de obras sobre infraestructuras públicas de transporte de agua</b></h3></li>
-                <li><h3>Se modifica la redacción dada a la sujeción al 0% <b>relativa a las ejecciones de obra en edificios de titularidad pública destinados a servicios sociales</b> puesto que se ha sustituido la Le de Servicios Sociales por la Ley 16/2019 de 2 de mayo de Servicios Sociales de Canarias</h3></li>
-                
+                <li><h3>Se modifica la redacción dada a la sujeción al 0% <b>relativa a las ejecciones de obra en edificios de titularidad pública destinados a servicios sociales</b> puesto que se ha sustituido la Le de Servicios Sociales por la Ley 16/2019 de 2 de mayo de Servicios Sociales de Canarias</h3></li>  
             </ul>
         </td>
     </tr>
