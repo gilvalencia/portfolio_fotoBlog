@@ -150,9 +150,10 @@ Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros par
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será más sencillo usar automatismos. El modo prioridad a la apertura o el modo prioridad a                     la velocidad de obturación se convertirán en nuestro mejores aliados. Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f                           altos) como por ejemplo f/8 o f/11.
-
-                    Si nos decidimos por usar el modo con prioridad a la apertura de diafragma, le diremos a nuestra cámara que queremos usar un número f determinado y ella                        calculará la velocidad y la ISO más adecuadas para la exposición correcta de esa escena. Así nos aseguraremos de cubrir la mayor profundidad de campo posible.                      </h3></li>
+                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será más sencillo usar automatismos.</h3></li>
+                <li><h3>El modo prioridad a la apertura o el modo prioridad a la velocidad de obturación se convertirán en nuestro mejores aliados.</h3><li>
+                <li><h3<Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f altos) como por ejemplo f/8 o f/11.</h3></li>
+                <li><h3>Si nos decidimos por usar el modo con prioridad a la apertura de diafragma, le diremos a nuestra cámara que queremos usar un número f determinado y ella calculará la velocidad y la ISO más adecuadas para la exposición correcta de esa escena. Así nos aseguraremos de cubrir la mayor profundidad de campo posible.</h3></li>
             </ul>
         </td>
     </tr>
