@@ -192,42 +192,42 @@ Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros par
 <br>
 
 <!--OBTURACION----------------->
-<h2><u>1.-Modos de Disparo Semiautomático</u>:</h2>
+<h2><u>2.-Velocidad de Obturación Alta</u>:</h2>
 
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será <b>más sencillo usar automatismos</b>.</h3></li>
-                <li><h3>El <b>modo prioridad a la apertura</b> o el <b>modo prioridad a la velocidad de obturación</b> se convertirán en nuestro mejores aliados.</h3></li>
-                <li><h3>Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f altos) como <b>por ejemplo f/8 o f/11</b>.</h3></li>
+                <li><h3>El problema de la fotografía callejera es que <b>suele haber movimiento en la escena</b>, por lo que también necesitaremos <b>disparar con una velocidad relativamente alta</b>.</h3></li>
+                <li><h3>Lo más aconsejable si disparas cámara en mano es que escojas una <b>velocidad superior a 1/125s</b> para evitar trepidaciones indeseadas.</h3></li>
+                <li><h3>Cuanto más rápido sea el movimiento de los elementos, más tendrás que aumentarla <b>a 1/250s, a 1/400s</b> o incluso más.</h3></li>
             </ul>
         </td>
     </tr>
 </table>
 
 <center>
-  <img src="src/fotosEnteraApartados_semiautomatico.jpg">
+  <img src="src/fotosEnteraApartados_obturacion.jpg">
 </center> 
 
-<button type="button" id="btn1dp3" onclick="diapo('3')" style="display:block">Ejemplos de Disparo Semiautomático</button>
-<button type="button" id="btn2dp3" onclick="diapob('3')" style="display:none">Ocultar Ejemplos</button>
+<button type="button" id="btn1dp4" onclick="diapo('4')" style="display:block">Ejemplos de Obturación</button>
+<button type="button" id="btn2dp4" onclick="diapob('4')" style="display:none">Ocultar Ejemplos</button>
 
-<div id="diapo3" style="display:none">
+<div id="diapo4" style="display:none">
         <table>
         <tr>
-            <th>Apertura Diafragma f/8</th>
-            <th>Apertura Diafragma f/11</th>
+            <th>Obturación 1/250s</th>
+            <th>Obturación 1/400s</th>
         </tr>
         <tr>
             <td valign="top">
                 <center>
-                    <img src="src/fotosPequenas_semiautomatico_01.jpg">
+                    <img src="src/fotosPequenas_obturacion_01.jpg">
                 </center> 
             </td>
             <td valign="top">
                  <center>
-                    <img src="src/fotosPequenas_semiautomatico_02.jpg">
+                    <img src="src/fotosPequenas_obturacion_02.jpg">
                 </center> 
             </td>
         </tr>
@@ -237,42 +237,43 @@ Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros par
 <br>
 
 <!--ISO----------------->
-<h2><u>1.-Modos de Disparo Semiautomático</u>:</h2>
+<h2><u>3.-ISO Moderada</u>:</h2>
 
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será <b>más sencillo usar automatismos</b>.</h3></li>
-                <li><h3>El <b>modo prioridad a la apertura</b> o el <b>modo prioridad a la velocidad de obturación</b> se convertirán en nuestro mejores aliados.</h3></li>
-                <li><h3>Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f altos) como <b>por ejemplo f/8 o f/11</b>.</h3></li>
+                <li><h3>¿Y qué pasa cuando usamos aperturas pequeñas y velocidades altas? Pues que la luz que entra al sensor es menor y tendremos que equilibrar ese triángulo de exposición aumentando la sensibilidad ISO.</h3></li>
+                <li><h3>Dependiendo de la escena a capturar, <b>la sensibilidad de la película varía</b>.</h3></li>
+                <li><h3>Lo ideal para escenas con mucho movimiento son velocidades de ISO muy altas. A partir de ahí, se compensa.</h3></li>
+                <li><h3>Recuerda que cuando aumentas la ISO va apareciendo cada vez más ruido.</h3></li>
             </ul>
         </td>
     </tr>
 </table>
 
 <center>
-  <img src="src/fotosEnteraApartados_semiautomatico.jpg">
+  <img src="src/fotosEnteraApartados_iso.jpg">
 </center> 
 
-<button type="button" id="btn1dp3" onclick="diapo('3')" style="display:block">Ejemplos de Disparo Semiautomático</button>
-<button type="button" id="btn2dp3" onclick="diapob('3')" style="display:none">Ocultar Ejemplos</button>
+<button type="button" id="btn1dp5" onclick="diapo('5')" style="display:block">Ejemplos de ISO</button>
+<button type="button" id="btn2dp5" onclick="diapob('5')" style="display:none">Ocultar Ejemplos</button>
 
-<div id="diapo3" style="display:none">
+<div id="diapo5" style="display:none">
         <table>
         <tr>
-            <th>Apertura Diafragma f/8</th>
-            <th>Apertura Diafragma f/11</th>
+            <th>Velocidad de Película 100</th>
+            <th>Velocidad de Película 1000</th>
         </tr>
         <tr>
             <td valign="top">
                 <center>
-                    <img src="src/fotosPequenas_semiautomatico_01.jpg">
+                    <img src="src/fotosPequenas_iso_01.jpg">
                 </center> 
             </td>
             <td valign="top">
                  <center>
-                    <img src="src/fotosPequenas_semiautomatico_02.jpg">
+                    <img src="src/fotosPequenas_iso_02.jpg">
                 </center> 
             </td>
         </tr>
@@ -282,42 +283,48 @@ Teniendo eso en cuenta podemos hacernos una idea de <b>cómo elegir nuestros par
 <br>
 
 <!--OTRAS TECNICAS----------------->
-<h2><u>1.-Modos de Disparo Semiautomático</u>:</h2>
+<h2><u>4.-Otras configuraciones útiles</u>:</h2>
 
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será <b>más sencillo usar automatismos</b>.</h3></li>
-                <li><h3>El <b>modo prioridad a la apertura</b> o el <b>modo prioridad a la velocidad de obturación</b> se convertirán en nuestro mejores aliados.</h3></li>
-                <li><h3>Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f altos) como <b>por ejemplo f/8 o f/11</b>.</h3></li>
+                <li><h3>Otra recomendación interesante es que utilices el <b>enfoque manual</b> eligiendo el punto de enfoque sobre la zona que quieras que salga más nítida.</h3></li>
+                <li><h3>Trata de disparar tus fotos en modo ráfaga.</h3></li>
+                <li><h3>No te resultará demasiado complicado conseguir un buen enfoque si usas aperturas pequeñas porque la profundidad de campo será amplia.</h3></li>
             </ul>
         </td>
     </tr>
 </table>
 
 <center>
-  <img src="src/fotosEnteraApartados_semiautomatico.jpg">
+  <img src="src/fotosEnteraApartados_otrasConfiguraciones.jpg">
 </center> 
 
-<button type="button" id="btn1dp3" onclick="diapo('3')" style="display:block">Ejemplos de Disparo Semiautomático</button>
-<button type="button" id="btn2dp3" onclick="diapob('3')" style="display:none">Ocultar Ejemplos</button>
+<button type="button" id="btn1dp6" onclick="diapo('6')" style="display:block">Ver Ejemplos</button>
+<button type="button" id="btn2dp6" onclick="diapob('6')" style="display:none">Ocultar Ejemplos</button>
 
-<div id="diapo3" style="display:none">
+<div id="diapo6" style="display:none">
         <table>
         <tr>
-            <th>Apertura Diafragma f/8</th>
-            <th>Apertura Diafragma f/11</th>
+            <th>Enfoque Manual en Fotografía Estática</th>
+            <th>Enfoque Manual en Fotografía con Ráfaga</th>
+            <th>Enfoque Automático</th>
         </tr>
         <tr>
             <td valign="top">
                 <center>
-                    <img src="src/fotosPequenas_semiautomatico_01.jpg">
+                    <img src="src/fotosPequenas_otras_01.jpg">
                 </center> 
             </td>
             <td valign="top">
                  <center>
-                    <img src="src/fotosPequenas_semiautomatico_02.jpg">
+                    <img src="src/fotosPequenas_otras_02.jpg">
+                </center> 
+            </td>
+            <td valign="top">
+                <center>
+                    <img src="src/fotosPequenas_otras_03.jpg">
                 </center> 
             </td>
         </tr>
