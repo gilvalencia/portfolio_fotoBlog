@@ -66,41 +66,19 @@ Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva
 <div id="diapo1" style="display:none">
         <table>
         <tr>
-            <th>Redacción Anterior</th>
-            <th>Nueva Redacción</th>
+            <th>Primer Plano</th>
+            <th>Primerísimo Primer Plano</th>
         </tr>
         <tr>
-            <td valign="top">1. En el Impuesto General Indirecto Canario serán aplicables los siguientes tipos de gravamen:
-                <ol type="a">
-                    <li>El tipo cero, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 52 de esta ley.</li>
-                    <li style="color:red">El tipo reducido del 2,75 por ciento, aplicable a las entregas de bienes señaladas en el 
-                        <div class="tooltip">artículo 53 
-                        <span class="tooltiptext"><b>Artículo 53.- Tipo de gravamen reducido del 2,75 por ciento.</b><br><br>
-                        Fué suprimido por la Ley 11/2015, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2016. Este precepto era aplicable hasta el día 31 de diciembre de 2012<br><br>
-                        Se había suprimido con anterioridad el artículo pero no la letra relativa a ese tipo impositivo.</span> 
-                        </div>
-                        de esta ley.
-                    </li>
-                    <li>El tipo reducido del 3 por ciento, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 54 de esta ley.</li>
-                    <li style="color:red">El tipo general del 6,5 por ciento, aplicable a las entregas de bienes y prestaciones de servicios que no se encuentren sometidas a ninguno de los otros tipos        impositivos previstos en el presente artículo.</li>
-                    <li>El tipo incrementado del 9,5 por ciento, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 55 de esta ley.</li>
-                    <li style="color:red">El tipo incrementado del 13,5 por ciento, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 56 de esta ley.</li>
-                    <li>El tipo especial del 20 por ciento, aplicable a las entregas de bienes y prestaciones de servicios descritas en el artículo 57 de esta ley.</li>
-                </ol>
+            <td valign="top">
+                <center>
+                    <img src="retratos_ejemplos_01.jpg">
+                </center> 
             </td>
             <td valign="top">
-                1. Los tipos de gravamen en el Impuesto General Indirecto Canario serán los siguientes:
-                <ol type="a">
-                    <li>El tipo cero, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 52 de esta ley.</li>
-                    <li>tipo reducido del 3 por ciento, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 54 de esta ley.</li>
-                    <li style="color:blue"><u>El tipo general del 7 por ciento,</u> aplicable a las entregas de bienes y prestaciones de servicios que no se encuentren sometidas a
-                        ninguno de los otros tipos impositivos previstos en el presente artículo.</li>
-                    <li>El tipo incrementado del 9,5 por ciento, aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 55 de
-                        esta ley.</li>
-                    <li style="color:blue"><u>El tipo incrementado del 15 por ciento,</u> aplicable a las entregas de bienes y prestaciones de servicios señaladas en el artículo 56 de
-                        esta ley.</li>
-                    <li>El tipo especial del 20 por ciento, aplicable a las entregas de bienes señaladas en el artículo 57 de esta ley</li>
-                </ol>
+                 <center>
+                    <img src="retratos_ejemplos_02.jpg">
+                </center> 
             </td>
         </tr>
         </table>
