@@ -55,6 +55,7 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <center>
     <img src="src/tematica_fotosPequenas_yuxta_01.jpg">
 </center>
+<br>
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
@@ -112,10 +113,10 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
     </tr>
 </table>
 
-<button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ejemplos de Emociones</button>
-<button type="button" id="btn2dp1" onclick="diapob('1')" style="display:none">Ocultar Ejemplos</button>
+<button type="button" id="btn1dp2" onclick="diapo('2')" style="display:block">Ejemplos de Emociones</button>
+<button type="button" id="btn2dp2" onclick="diapob('2')" style="display:none">Ocultar Ejemplos</button>
 
-<div id="diapo1" style="display:none">
+<div id="diapo2" style="display:none">
         <table>
         <tr>
             <th>Plano medio de sujeto mirando a cámara</th>
