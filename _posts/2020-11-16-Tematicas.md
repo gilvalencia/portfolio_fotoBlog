@@ -248,7 +248,7 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
     </tr>
 </table>
 
-<button type="button" id="btn1dp5" onclick="diapo('5')" style="display:block">Ejemplos de Paisajes Urbanos</button>
+<button type="button" id="btn1dp5" onclick="diapo('5')" style="display:block">Ver Ejemplos</button>
 <button type="button" id="btn2dp5" onclick="diapob('5')" style="display:none">Ocultar Ejemplos</button>
 
 <div id="diapo5" style="display:none">
@@ -273,6 +273,9 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 </div>
 <br>
 
+<center>
+    <img src="src/tematicas_fotosEncabezado_02.jpg">
+</center> 
 
 <!--SCRIPTS----------------------------------->
 
