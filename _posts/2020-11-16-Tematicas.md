@@ -240,9 +240,9 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Las luces y las sombras son la herramienta perfecta para conseguir vistosos contrastes cuando practicamos fotografía callejera.</h3></li>
-                <li><h3>Un recurso muy interesante es el de integrarte a ti mismo dentro de la fotografía con tu sombra o con tu reflejo en el agua.</h3></li>
-                <li><h3>Utilizando el reflejo de determinados elementos del entorno, podemos conseguir fotografías creativas que se asemejen a pinturas.</h3></li>
+                <li><h3><b>Las luces y las sombras</b> son la herramienta perfecta para conseguir vistosos contrastes cuando practicamos fotografía callejera.</h3></li>
+                <li><h3>Un recurso muy interesante es el de <b>integrarte a ti mismo dentro de la fotografía</b> con tu sombra o con tu reflejo en el agua.</h3></li>
+                <li><h3>Utilizando el reflejo de determinados elementos del entorno, podemos conseguir <b>fotografías creativas que se asemejen a pinturas</b>.</h3></li>
             </ul>
         </td>
     </tr>
