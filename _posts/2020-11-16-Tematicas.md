@@ -224,7 +224,7 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <br>
 
 <!--DIAPOSITIVA 5----------------------------------->
-<h1><u>5.-Jugar con la Luz, el Contraste y tu Propia Sombra</u>:</h1>
+<h1><u>5.-Jugar con la Luz, el Contraste, los Reflejos y tu Propia Sombra</u>:</h1>
 
 <table>
     <tr>
