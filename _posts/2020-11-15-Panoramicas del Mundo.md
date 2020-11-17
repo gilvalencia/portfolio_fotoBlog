@@ -39,28 +39,37 @@ permalink: "Portoflio Fotográfico_Panorámicas"
 <img src="src/fotosEncabezado_panoramica.jpg">
 </center>
 <br>
-Aunque seas principiante o nunca la hayas practicado seguro que te suena el término street photography o fotografía callejera. Se trata de una de las temáticas más conocidas de la fotografía y una de las más practicadas por fotógrafos/as de todo el mundo.
+Las <b>fotografías panorámicas</b> son la solución perfecta para situaciones en las que nuestro objetivo <b>no pueda abarcar toda la escena</b> que nos interesa incluir en el encuadre, o en el caso de que la foto por fines estéticos o compositivos necesiten tener un aspecto apaisado.
 
-Como a nosotros también nos apasiona, hemos decidido crear una guía definitiva que recopile todos los consejos, trucos y técnicas que necesitas saber para poder dominar de una vez por todas este tipo de fotografía tan espectacular. ¡Vayamos punto por punto!
+Muchas cámaras compactas traen incorporado un modo panorámico parecido al de los móviles, que nos ayuda a hacer la foto mediante una guía en la pantalla LCD y nos monta las imágenes automáticamente con mejor o peor resultado.
+
+La mayoría de cámaras para principiantes no cuentan con este tipo de ayuda y aunque la tuviesen, personalmente seguiría utilizando el <b>método tradicional de hacer varias fotografías y unirlas en el ordenador</b>.
+
+En este blog explicaré cómo desarrollar esta técnica de realizar panorámicas, teniendo en cuenta ese aspecto de la inmersión en el ambiente a fotografiar y controlar los diferentes elementos que tienes en escena.
     
-<h2>Primeros Planos</h2>
+<h2>Cómo realizar panorámicas tradicionales</h2>
 
 <!--DIAPOSITIVA 1----------------------------------->
-<h1><u>Cosas a tener en cuenta</u>:</h1>
+<h1><u>Inicios</u>:</h1>
 
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Es un tipo de fotografía que trata de documentar <b>momentos clave de la condición humana</b> en entornos públicos.</h3></li>
-                <li><h3><b>La paciencia, el encuadre y la oportunidad </b> son los elementos clave de este tipo de fotografía</h3></li>
-                <li><h3>Tres premisas: tómate todo el tiempo <b>que sea necesario</b>, <b>observa</b> muy detenidamente tu entorno y ten <b>preparada tu cámara en todo                             momento</b>.</h3></li>
+                <li><h3>Antes de que existiera la función <b><i>Photomerge</i></b> de <i>Adobe Photoshop</i>, lo tradicional era realizar varias fotografías en horizontal o en vertical y unirlas manualmente a través de deformaciones en el mismo software.</h3></li>
+                <li><h3>Como se aprecia en la fotografía de ejemplo, la idea es realizar un <b>barrido de izquierda a derecha</b> en el entorno a fotografiar.</h3></li>
+                <li><h3>El <b>problema</b> en estos casos era la mezcla y unión de determinadas partes de la fotografía.</h3></li>
+                <li><h3>Es fundamental contar con una <b>base con una resolución de al menos 150ppp</b>, con un <b>formato de 6237x2044 pixeles</b> para poder realizar en ella la composición final en el software de edición fotográfica.</h3></li>
             </ul>
         </td>
     </tr>
 </table>
 
-<button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ejemplos de Primeros Planos</button>
+<center>
+    <img src="src/retratos_ejemplo_01.jpg">
+</center> 
+
+<button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ejemplos de Primeras Panorámicas</button>
 <button type="button" id="btn2dp1" onclick="diapob('1')" style="display:none">Ocultar Ejemplos</button>
 
 <div id="diapo1" style="display:none">
