@@ -184,38 +184,43 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <br>
 
 <!--DIAPOSITIVA 4----------------------------------->
+<center>
 <h1><u>4.-Captar paisaje urbano y arte callejero</u>:</h1>
-
+</center>
+<center>
+    <img src="src/tematica_fotosPequenas_urbano_01.jpg">
+</center>
+<br>
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Es un tipo de fotografía que trata de documentar <b>momentos clave de la condición humana</b> en entornos públicos.</h3></li>
-                <li><h3><b>La paciencia, el encuadre y la oportunidad </b> son los elementos clave de este tipo de fotografía</h3></li>
-                <li><h3>Tres premisas: tómate todo el tiempo <b>que sea necesario</b>, <b>observa</b> muy detenidamente tu entorno y ten <b>preparada tu cámara en todo                             momento</b>.</h3></li>
+                <li><h3>Fotografiar algunos <b>paisajes urbanos</b> que se salgan un poco de la norma y reflejen algo llamativo también pueden ser otra opción.</h3></li>
+                <li><h3>Algo que encontrarás fácilmente es el <b>arte urbano</b> que inmortalizan en las paredes grafiteros famosos.</h3></li>
+                <li><h3>Sin duda, <b>fotografiar grafitis</b> es una tendencia de moda y cada vez hay más grafiteros cuyo trabajo se ha hecho famoso en todo el mundo.</h3></li>
             </ul>
         </td>
     </tr>
 </table>
 
-<button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ejemplos de Primeros Planos</button>
-<button type="button" id="btn2dp1" onclick="diapob('1')" style="display:none">Ocultar Ejemplos</button>
+<button type="button" id="btn1dp4" onclick="diapo('4')" style="display:block">Ejemplos de Paisajes Urbanos</button>
+<button type="button" id="btn2dp4" onclick="diapob('4')" style="display:none">Ocultar Ejemplos</button>
 
-<div id="diapo1" style="display:none">
+<div id="diapo4" style="display:none">
         <table>
         <tr>
-            <th>Primer Plano</th>
-            <th>Primerísimo Primer Plano</th>
+            <th>Skyline a través de vallas (Nueva York)</th>
+            <th>Time Square a ras de suelo (Nueva York)</th>
         </tr>
         <tr>
             <td valign="top">
                 <center>
-                    <img src="src/retratos_ejemplo_01.jpg">
+                    <img src="src/tematica_fotosPequenas_urbano_02.jpg">
                 </center> 
             </td>
             <td valign="top">
                  <center>
-                    <img src="src/retratos_ejemplo_02.jpg">
+                    <img src="src/tematica_fotosPequenas_urbano_03.jpg">
                 </center> 
             </td>
         </tr>
@@ -224,38 +229,43 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <br>
 
 <!--DIAPOSITIVA 5----------------------------------->
+<center>
 <h1><u>5.-Jugar con la Luz, el Contraste, los Reflejos y tu Propia Sombra</u>:</h1>
-
+</center>
+<center>
+    <img src="src/tematica_fotosPequenas_contraste_01.jpg">
+</center>
+<br>
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Es un tipo de fotografía que trata de documentar <b>momentos clave de la condición humana</b> en entornos públicos.</h3></li>
-                <li><h3><b>La paciencia, el encuadre y la oportunidad </b> son los elementos clave de este tipo de fotografía</h3></li>
-                <li><h3>Tres premisas: tómate todo el tiempo <b>que sea necesario</b>, <b>observa</b> muy detenidamente tu entorno y ten <b>preparada tu cámara en todo                             momento</b>.</h3></li>
+                <li><h3><b>Las luces y las sombras</b> son la herramienta perfecta para conseguir vistosos contrastes cuando practicamos fotografía callejera.</h3></li>
+                <li><h3><b>El juego de los <b>reflejos sobre el agua</b> puede crear representaciones urbanas que dan la sensación de pinturas reales.</h3></li>
+                <li><h3>Un recurso muy interesante es el de integrarte a ti mismo dentro de la fotografía <b>con tu sombra o con tu reflejo en el agua</b>.</h3></li>
             </ul>
         </td>
     </tr>
 </table>
 
-<button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ejemplos de Primeros Planos</button>
-<button type="button" id="btn2dp1" onclick="diapob('1')" style="display:none">Ocultar Ejemplos</button>
+<button type="button" id="btn1dp5" onclick="diapo('5')" style="display:block">Ejemplos de Primeros Planos</button>
+<button type="button" id="btn2dp5" onclick="diapob('5')" style="display:none">Ocultar Ejemplos</button>
 
-<div id="diapo1" style="display:none">
+<div id="diapo5" style="display:none">
         <table>
         <tr>
-            <th>Primer Plano</th>
-            <th>Primerísimo Primer Plano</th>
+            <th>Contraste al atardecer de nidos de cigüeñas (Los Barruecos, Cáceres)</th>
+            <th>Contraste de personas sobre un puente (París)</th>
         </tr>
         <tr>
             <td valign="top">
                 <center>
-                    <img src="src/retratos_ejemplo_01.jpg">
+                    <img src="src/tematica_fotosPequenas_contraste_02.jpg">
                 </center> 
             </td>
             <td valign="top">
                  <center>
-                    <img src="src/retratos_ejemplo_02.jpg">
+                    <img src="src/tematica_fotosPequenas_contraste_03.jpg">
                 </center> 
             </td>
         </tr>
@@ -264,7 +274,7 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <br>
 
 <center>
-    <img src="src/fotosEnteraApartados_finalRetratos.jpg">
+    <img src="src/tematicas_fotosEncabezado_02.jpg">
 </center>
 
 
