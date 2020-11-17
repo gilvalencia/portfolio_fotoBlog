@@ -158,10 +158,10 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
     </tr>
 </table>
 
-<button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ejemplos de Primeros Planos</button>
-<button type="button" id="btn2dp1" onclick="diapob('1')" style="display:none">Ocultar Ejemplos</button>
+<button type="button" id="btn1dp3" onclick="diapo('3')" style="display:block">Ejemplos de Detalles</button>
+<button type="button" id="btn2dp3" onclick="diapob('3')" style="display:none">Ocultar Ejemplos</button>
 
-<div id="diapo1" style="display:none">
+<div id="diapo3" style="display:none">
         <table>
         <tr>
             <th>Fotografía de candados con transfoco (Cracovia)</th>
