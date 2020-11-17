@@ -141,7 +141,9 @@ Estos ejemplos no quieren decir que no podamos utilizar esta herramienta aunque 
         <td valign="top">
             <center>
                     <img src="src/panoramica_ejemplosParalaje_01.jpg">
-                    <br>
+            </center>
+            <br>
+            <center>
                     <img src="src/panoramica_ejemplosParalaje_02.jpg">
             </center> 
         </td>
@@ -202,19 +204,6 @@ Son varios los consejos que te pueden ayudar a la hora de hacer panorámicas. So
 </div>
 
 <br>
-
-<!--DIAPOSITIVA 4----------------------------------->
-
-<h1><u>Experiencia</u>:</h1>
-
-Cierto es que no es fácil el retrato callejero. Sobre todo cuando realizas las fotos demasiado cerca de las personas. Tienes que tener cuidado. Y más hoy en día. Mucha gente es reacia a que se le acerque una cámara.
-
-Pero la sensación de poder sacar una instantánea, pausar el tiempo de una persona en un determinado lugar, te hace poderoso. Y, si se siguen determinadas técnicas, se puede ser incluso creativo y artístico. La fotografía al poder. 
-
-<center>
-    <img src="src/fotosEnteraApartados_finalRetratos.jpg">
-</center>
-
 
 <!--SCRIPTS----------------------------------->
 
