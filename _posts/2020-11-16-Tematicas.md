@@ -44,42 +44,46 @@ En este género podrás abarcar prácticamente cualquier temática, aunque sea c
 <center>
     <img src="src/tematicas_fotosEncabezado_01.jpg">
 </center> 
-
+<br>
 Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos, vehículos, edificios, monumentos... </b>y todo será susceptible de ser fotografiado. Como te decíamos al principio, la fotografía callejera trata de captar <b>la esencia de un lugar</b>, por lo que capturar la cotidianidad dentro de ese marco urbano será tu objetivo. Veamos algunas temáticas o ideas interesantes que suelen utilizarse por diversos fotógrafos callejeros contemporáneos y que pueden servirte como temas recurrentes en tus sesiones callejeras.
 
 <!--DIAPOSITIVA 1----------------------------------->
-<h1><u>Crear una Yuxtaposición</u>:</h1>
+<h1><u>1.-Crear una Yuxtaposición</u>:</h1>
 
+<center>
+    <img src="src/tematica_fotosPequenas_yuxta_01.jpg">
+</center>
+<br>
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Es un tipo de fotografía que trata de documentar <b>momentos clave de la condición humana</b> en entornos públicos.</h3></li>
-                <li><h3><b>La paciencia, el encuadre y la oportunidad </b> son los elementos clave de este tipo de fotografía</h3></li>
-                <li><h3>Tres premisas: tómate todo el tiempo <b>que sea necesario</b>, <b>observa</b> muy detenidamente tu entorno y ten <b>preparada tu cámara en todo                             momento</b>.</h3></li>
+                <li><h3>Consiste en <b>superponer elementos independientes</b> dentro del mismo encuadre.</h3></li>
+                <li><h3>La idea es crear un contraste elegante con esa unión.</h3></li>
+                <li><h3>El objetivo será <b>mezclar elementos completamente diferentes o contradictorios</b> pero que tengan algún tipo de relación.</h3></li>
             </ul>
         </td>
     </tr>
 </table>
 
-<button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ejemplos de Primeros Planos</button>
+<button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ejemplos de Yuxtaposición</button>
 <button type="button" id="btn2dp1" onclick="diapob('1')" style="display:none">Ocultar Ejemplos</button>
 
 <div id="diapo1" style="display:none">
         <table>
         <tr>
-            <th>Primer Plano</th>
-            <th>Primerísimo Primer Plano</th>
+            <th>Uso de un elemento externo como marco</th>
+            <th>Aprovechar el arte callejero para la yuxtaposición</th>
         </tr>
         <tr>
             <td valign="top">
                 <center>
-                    <img src="src/retratos_ejemplo_01.jpg">
+                    <img src="src/tematica_fotosPequenas_yuxta_02.jpg">
                 </center> 
             </td>
             <td valign="top">
                  <center>
-                    <img src="src/retratos_ejemplo_02.jpg">
+                    <img src="src/tematica_fotosPequenas_yuxta_03.jpg">
                 </center> 
             </td>
         </tr>
@@ -88,8 +92,12 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <br>
 
 <!--DIAPOSITIVA 2----------------------------------->
-<h1><u>Capturar emociones</u>:</h1>
+<h1><u>2.-Capturar emociones</u>:</h1>
 
+<center>
+    <img src="src/tematica_fotosPequenas_yuxta_01.jpg">
+</center>
+<br>
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
@@ -128,7 +136,7 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <br>
 
 <!--DIAPOSITIVA 3----------------------------------->
-<h1><u>Atrapar los pequeños detalles</u>:</h1>
+<h1><u>3.-Atrapar los pequeños detalles</u>:</h1>
 
 <table>
     <tr>
@@ -168,7 +176,7 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <br>
 
 <!--DIAPOSITIVA 4----------------------------------->
-<h1><u>Captar paisaje urbano y arte callejero</u>:</h1>
+<h1><u>4.-Captar paisaje urbano y arte callejero</u>:</h1>
 
 <table>
     <tr>
@@ -208,7 +216,7 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <br>
 
 <!--DIAPOSITIVA 5----------------------------------->
-<h1><u>Jugar con la Luz, el Contraste y tu Propia Sombra</u>:</h1>
+<h1><u>5.-Jugar con la Luz, el Contraste y tu Propia Sombra</u>:</h1>
 
 <table>
     <tr>
