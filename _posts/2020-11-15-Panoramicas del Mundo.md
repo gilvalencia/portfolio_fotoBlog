@@ -167,37 +167,43 @@ Son varios los consejos que te pueden ayudar a la hora de hacer panorámicas. So
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Lo ideal, si tenemos tiempo, es usar el modo manual pero nos será <b>más sencillo usar automatismos</b>.</h3></li>
-                <li><h3>El <b>modo prioridad a la apertura</b> o el <b>modo prioridad a la velocidad de obturación</b> se convertirán en nuestro mejores aliados.</h3></li>
-                <li><h3>Para conseguir escenas nítidas será recomendable usar aperturas pequeñas (números f altos) como <b>por ejemplo f/8 o f/11</b>.</h3></li>
+                <li><h3>Posición de la cámara en vertical.</h3></li>
+                <li><h3>Colocar la cámara, a ser posible, en un trípode.</h3></li>
+                <li><h3>Cuidado con el error de paralaje (visto en el apartado anterior).</h3></li>
+                <li><h3>Encontrar el centro óptico, con el fin de que la fotografía no esté ligeramente inclinada.</h3></li>
+                <li><h3>Desactivar el enfoque automático.</h3></li>
+                <li><h3>Realizar la fotografía con un control de diafragma y obturación sin automatismos (todas las fotografías tienen que tener la misma entrada de luz).</h3></li>
             </ul>
         </td>
     </tr>
 </table>
 
 <center>
-  <img src="src/fotosEnteraApartados_semiautomatico.jpg">
+  <img src="src/panoramica_fotosEnteraApartados_consejo.jpg">
 </center> 
 
-<button type="button" id="btn1dp3" onclick="diapo('3')" style="display:block">Ejemplos de Disparo Semiautomático</button>
-<button type="button" id="btn2dp3" onclick="diapob('3')" style="display:none">Ocultar Ejemplos</button>
+<button type="button" id="btn1dp3" onclick="diapo('3')" style="display:block">Trabajos detallados</button>
+<button type="button" id="btn2dp3" onclick="diapob('3')" style="display:none">Ocultar Trabajos</button>
 
 <div id="diapo3" style="display:none">
         <table>
         <tr>
-            <th>Apertura Diafragma f/8</th>
-            <th>Apertura Diafragma f/11</th>
-        </tr>
-        <tr>
             <td valign="top">
                 <center>
-                    <img src="src/fotosPequenas_semiautomatico_01.jpg">
-                </center> 
-            </td>
-            <td valign="top">
-                 <center>
-                    <img src="src/fotosPequenas_semiautomatico_02.jpg">
-                </center> 
+                    <img src="src/panoramica_consejo_01.jpg">
+                </center>
+                <br>
+                <center>
+                    <img src="src/panoramica_consejo_02.jpg">
+                </center>
+                <br>
+                <center>
+                    <img src="src/panoramica_consejo_03.jpg">
+                </center>
+                <br>
+                <center>
+                    <img src="src/panoramica_consejo_04.jpg">
+                </center>
             </td>
         </tr>
         </table>
