@@ -254,18 +254,18 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <div id="diapo5" style="display:none">
         <table>
         <tr>
-            <th>Skyline a través de vallas (Nueva York)</th>
-            <th>Time Square a ras de suelo (Nueva York)</th>
+            <th>Contraste de cigüeñales al atardecer (Los Barruecos, Cáceres)</th>
+            <th>Contraste de personas sobre el puente (París)</th>
         </tr>
         <tr>
             <td valign="top">
                 <center>
-                    <img src="src/tematica_fotosPequenas_urbano_02.jpg">
+                    <img src="src/tematica_fotosPequenas_contraste_02.jpg">
                 </center> 
             </td>
             <td valign="top">
                  <center>
-                    <img src="src/tematica_fotosPequenas_urbano_03.jpg">
+                    <img src="src/tematica_fotosPequenas_contraste_03.jpg">
                 </center> 
             </td>
         </tr>
