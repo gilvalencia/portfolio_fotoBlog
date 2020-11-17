@@ -66,7 +66,7 @@ En este blog explicaré cómo desarrollar esta técnica de realizar panorámicas
 </table>
 
 <center>
-    <img src="src/retratos_ejemplo_01.jpg">
+    <img src="src/panoramica_fotosEnteraApartados_inicios.jpg">
 </center> 
 
 <button type="button" id="btn1dp1" onclick="diapo('1')" style="display:block">Ejemplos de Primeras Panorámicas</button>
@@ -75,18 +75,26 @@ En este blog explicaré cómo desarrollar esta técnica de realizar panorámicas
 <div id="diapo1" style="display:none">
         <table>
         <tr>
-            <th>Primer Plano</th>
-            <th>Primerísimo Primer Plano</th>
+            <th>Principado de Mónaco (2009)</th>
         </tr>
         <tr>
             <td valign="top">
                 <center>
-                    <img src="src/retratos_ejemplo_01.jpg">
+                    <img src="src/panoramica_fotosEncabezado_ejemploTradicional_01.jpg">
+                    <br>
+                    <img src="src/panoramica_fotosEncabezado_ejemploTradicional_01_normal.jpg">
                 </center> 
             </td>
+        </tr>
+        <tr>
+            <th>Circo Montañoso de Gredos (2011)</th>
+        </tr>
+        <tr>
             <td valign="top">
-                 <center>
-                    <img src="src/retratos_ejemplo_02.jpg">
+                <center>
+                    <img src="src/panoramica_fotosEncabezado_ejemploTradicional_02.jpg">
+                    <br>
+                    <img src="src/panoramica_fotosEncabezado_ejemploTradicional_02_normal.jpg">
                 </center> 
             </td>
         </tr>
