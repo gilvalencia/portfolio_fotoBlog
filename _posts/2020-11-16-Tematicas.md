@@ -139,15 +139,20 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <br>
 
 <!--DIAPOSITIVA 3----------------------------------->
+<center>
 <h1><u>3.-Atrapar los pequeños detalles</u>:</h1>
-
+</center>
+<center>
+    <img src="src/tematica_fotosPequenas_detalles_01.jpg">
+</center>
+<br>
 <table>
     <tr>
         <td style="background-color:#E5E3E2">
             <ul>
-                <li><h3>Es un tipo de fotografía que trata de documentar <b>momentos clave de la condición humana</b> en entornos públicos.</h3></li>
-                <li><h3><b>La paciencia, el encuadre y la oportunidad </b> son los elementos clave de este tipo de fotografía</h3></li>
-                <li><h3>Tres premisas: tómate todo el tiempo <b>que sea necesario</b>, <b>observa</b> muy detenidamente tu entorno y ten <b>preparada tu cámara en todo                             momento</b>.</h3></li>
+                <li><h3>Cuando vayas a realizar <i>street photography</i>, sobre todo en las grandes ciudades, te encontrarás seguramente con <b>personas muy variopintas</b> o especiales y con <b>lugares u objetos curiosos</b>. </h3></li>
+                <li><h3>Incluso puede que haya cosas que llamen la atención pero que <b>la gente no se atreve a mirar</b> por miedo o pudor. Si algo te atrae, acércate y fotografíalo.</h3></li>
+                <li><h3>Una tendencia divertida y curiosa dentro de la fotografía es la de <b>captar objetos cotidianos olvidados en espacios públicos</b>.</h3></li>
             </ul>
         </td>
     </tr>
@@ -159,18 +164,18 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 <div id="diapo1" style="display:none">
         <table>
         <tr>
-            <th>Primer Plano</th>
-            <th>Primerísimo Primer Plano</th>
+            <th>Fotografía de candados con transfoco (Cracovia)</th>
+            <th>Contraste del <i>Amperman</i> verde con el <i>Fernsehturm</i> al fondo (Berlín)</th>
         </tr>
         <tr>
             <td valign="top">
                 <center>
-                    <img src="src/retratos_ejemplo_01.jpg">
+                    <img src="src/tematica_fotosPequenas_detalles_02.jpg">
                 </center> 
             </td>
             <td valign="top">
                  <center>
-                    <img src="src/retratos_ejemplo_02.jpg">
+                    <img src="src/tematica_fotosPequenas_detalles_03.jpg">
                 </center> 
             </td>
         </tr>
