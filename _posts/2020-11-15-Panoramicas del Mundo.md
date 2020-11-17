@@ -103,24 +103,34 @@ En este blog explicaré cómo desarrollar esta técnica de realizar panorámicas
 <br>
 
 <!--DIAPOSITIVA 2----------------------------------->
-<h1><u>Equipo básico para fotografía callejera</u>:</h1>
+<h1><u>Conversión de tus archivos con plugin informático</u>:</h1>
 
-Lo primero que necesitarás para poder practicar fotografía callejera es un equipo fotográfico. Aunque hemos de reconocer que esta es una disciplina en la que un contar con un amplio equipo no será lo más importante porque no necesitarás demasiados elementos y esa es precisamente una de sus mayores ventajas.
+El efecto nativo <b><i>Photomerge</b></i> de <i>Adobe Photoshop</i> permite unir los <b>píxeles comunes que encuentre</b> de un lote de fotografías que el usuario inserte dentro del software. La secuencia sería la siguiente:
 
-Incluso con un móvil que cuente con una buena cámara ya puedes salir a hacer fotos. Obviamente siempre tendrás más versatilidad con una cámara digital, pero no serán necesarios demasiados accesorios, al contrario de otras disciplinas como la fotografía macro o de paisajes. Veamos cuál sería el equipo básico para poder hacer fotografía callejera.
+<center>
+    <img src="src/panoramica_photomerge_01.jpg">
+</center> 
+<br>
+<center>
+    <img src="src/panoramica_photomerge_02.jpg">
+</center> 
+<br>
 
-<table>
-    <tr>
-        <td style="background-color:#E5E3E2">
-            <ul>
-                <li><h3><b><u>Cámara Fotográfica</u></b>: Cuerpo.</h3></li>
-                <li><h3><b><u>Objetivos</u></b>: un <b>50mm</b> es lo habitual para este tipo de fotografía. </h3></li>
-                <li><h3><b><u>Trípode</u></b>: al tratarse de una fotografía tan dinámica, donde tienes que estar atento en todo momento, no es recomendable. </h3></li>
-                <li><h3><b><u>Filtros</u></b>: lo habitual es utilizar durante el día un filtro que elimina los rayos del sol (K&F Concept 40.5mm Filtro ND Variable ND2~ND400). </h3></li>
-            </ul>
-        </td>
-    </tr>
-</table>
+Como se puede observar, son diferentes tipos de panorámicas las que podemos obtener, en función del paralaje que busquemos en la fotografía. Habrá entornos en los que, por la profundidad de campo, no podamos disponer de un paralaje idóneo. Lo que nos provocará resultados un poco deformes de la realidad, asemejándose a un efecto de óptico de ojo de pez. De ahí que haya que tener en cuenta las condiciones de profundidad de campo y distancia focal de la lente a lo que queramos mostrar. Un ejemplo lo tenemos en las siguientes fotografías:
+
+<center>
+    <img src="src/panoramica_photomerge_03.jpg">
+</center> 
+<br>
+La distancia focal desde la cámara al punto de foco (lo principal que queremos representar) es muy poca en proporción a la amplitud de la fotografía. Aunque la foto es brillante, el número de fotografías que la forman (16 en total: 8 en línea superior y 8 en inferior), al procesarla en <i>Adobe Photoshop</i> da la sensación de que deforma la realidad, ya que se aprecia un monumento curvo. Algo diferente pasa con la siguiente fotografía, en la que la distancia focal es mucho mayor, lo que nos ofrece proporciones más reales.
+
+<center>
+    <img src="src/panoramica_photomerge_04.jpg">
+</center> 
+<br>
+
+Estos ejemplos no quieren decir que no podamos utilizar esta herramienta aunque se representen entornos alterados de la realidad. Ni mucho menos. El resultado de una foto de estas características puede resultar muy artístico. Pero el trabajo para conseguirlo es muy costoso.
+<br>
 
 <button type="button" id="btn1dp2" onclick="diapo('2')" style="display:block">Ver Equipo Fotográfico</button>
 <button type="button" id="btn2dp2" onclick="diapob('2')" style="display:none">Ocultar Equipo</button>
