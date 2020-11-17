@@ -273,10 +273,6 @@ Cuando salgas a la calle te encontrarás de todo: <b>personas, animales, objetos
 </div>
 <br>
 
-<center>
-    <img src="src/tematicas_fotosEncabezado_02.jpg">
-</center>
-
 
 <!--SCRIPTS----------------------------------->
 
